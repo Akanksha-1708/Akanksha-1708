@@ -31,8 +31,7 @@
 
 # 👋 About Me
 
-I'm a 3rd-year Computer Science Engineering (Data Science) student at PSIT Kanpur.
-
+I'm a 3rd-year Computer Science Engineering (Artificial Intelligence and Machine Learning) student at PSIT Kanpur.
 I enjoy building practical systems at the intersection of:
 
 - 🤖 Machine Learning
