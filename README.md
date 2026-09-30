@@ -46,7 +46,7 @@ My goal is to build strong, production-oriented projects and become internship-r
 | 🧰 Core Stack | C++, Python, JavaScript, React, LangChain, LangGraph |
 | 📊 Data | Pandas, NumPy, Scikit-learn, visualization |
 | 🤖 AI | Machine Learning, NLP, RAG, Local LLM systems |
-| 🔎 Interests | AI systems, semantic search, analytics products |
+| 🔎 Interests | LLMs, RAG Systems, LangGraph Agents, DSA |
 | 🚀 Goal | AI/ML, Data Science, GenAI & Agentic-AI internships |
 
 ---
@@ -55,7 +55,7 @@ My goal is to build strong, production-oriented projects and become internship-r
 
 <p align="center">
   <sub>
-    <code>PROJECTS.SYS</code> — Systems, AI architectures, data products & experiments
+    <code>PROJECTS.SYS</code> — ML Models, LLMs, AI Systems, DSA
   </sub>
 </p>
 
