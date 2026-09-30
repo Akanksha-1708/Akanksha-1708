@@ -42,7 +42,7 @@ My goal is to build strong, production-oriented projects and become internship-r
 
 | Focus | Current Direction |
 |---|---|
-| 🎓 Education | B.Tech CSE — Data Science |
+| 🎓 Education | B.Tech CSE — AI-ML |
 | 🧰 Core Stack | C++, Python, JavaScript, React, LangChain, LangGraph |
 | 📊 Data | Pandas, NumPy, Scikit-learn, visualization |
 | 🤖 AI | Machine Learning, NLP, RAG, Local LLM systems |
