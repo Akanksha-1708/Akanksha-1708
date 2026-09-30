@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/LeetCode-4L4ZPTMTQF-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=akankshaxdwivedi&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile views" />
-
 </div>
 
 ---
@@ -38,7 +36,7 @@ I enjoy building practical systems at the intersection of:
 - 📊 Data Science & Analytics
 - 🧠 Generative AI
 - 🔎 RAG & Semantic Search
-- ⚙️ Python & Backend Engineering
+- 🤖 Agentic AI & LLM Applications
 
 My goal is to build strong, production-oriented projects and become internship-ready for AI/ML Engineering, Data Science, Python Backend, and Generative AI roles.
 
