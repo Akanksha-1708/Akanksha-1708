@@ -38,7 +38,7 @@ I enjoy building practical systems at the intersection of:
 - 🔎 RAG & Semantic Search
 - 🤖 Agentic AI & LLM Applications
 
-My goal is to build strong, production-oriented projects and become internship-ready for AI/ML Engineering, Data Science, Python Backend, and Generative AI roles.
+My goal is to build strong, production-oriented projects and become internship-ready for AI/ML Engineering, Data Science, Agentic AI, and Generative AI roles.
 
 | Focus | Current Direction |
 |---|---|
